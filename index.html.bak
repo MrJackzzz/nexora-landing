@@ -243,8 +243,8 @@ img{max-width:100%;height:auto;display:block}
             <div class="hero-card-item" style="animation-delay:-4s">
               <div class="hero-card-icon" style="background:linear-gradient(135deg,#98c1d9,#e0fbfc);color:#293241"><i class="bi bi-bookmark"></i></div>
               <div class="hero-card-content">
-                <strong>Nexora Catálogo</strong>
-                <small>CatCat&aacute;logos digitales y ventasaacute;logos digitales de productos</small>
+                <strong>Nexora Note</strong>
+                <small>Cat&aacute;logos digitales y ventas</small>
               </div>
               <i class="bi bi-check-circle-fill" style="color:#98c1d9;font-size:1.1rem"></i>
             </div>
@@ -291,8 +291,8 @@ img{max-width:100%;height:auto;display:block}
       <div class="product-card reveal" style="transition-delay:.2s">
         <div class="card-glow" style="background:#98c1d9"></div>
         <div class="card-icon" style="background:linear-gradient(135deg,#98c1d9,#e0fbfc);color:#293241"><i class="bi bi-bookmark"></i></div>
-        <h3>Nexora Catálogo</h3>
-        <p>Cat&aacute;logos digitales profesionales para mostrar productos, precios y stock. Ideal para perfumer&iacute;a, indumentaria y venta directa.</p>
+        <h3>Nexora Note</h3>
+        <p>Cat&aacute;logos digitales, gesti&oacute;n de productos y herramientas de venta online. Mostr&aacute; tu stock y precios de forma profesional desde cualquier lugar.</p>
         <div class="card-links">
           <a href="#" target="_blank" rel="noopener"><i class="bi bi-play-circle"></i> Ver Demo</a>
           <a href="#contacto"><i class="bi bi-info-circle"></i> M&aacute;s Informaci&oacute;n</a>
@@ -335,10 +335,10 @@ img{max-width:100%;height:auto;display:block}
     <h2 class="section-title reveal">Resultados que hablan por s&iacute; solos</h2>
     <p class="section-subtitle reveal">Empresas de todo el pa&iacute;s conf&iacute;an en nuestras soluciones para potenciar sus operaciones.</p>
     <div class="stats-grid">
-      <div class="stat-item reveal"><div class="stat-number" data-count="15000">0</div><div class="stat-label">Operaciones Procesadas</div></div>
-      <div class="stat-item reveal" style="transition-delay:.1s"><div class="stat-number" data-count="995">0</div><div class="stat-label">Uptime</div></div>
-      <div class="stat-item reveal" style="transition-delay:.2s"><div class="stat-number" data-count="24">0</div><div class="stat-label">Soporte</div></div>
-      <div class="stat-item reveal" style="transition-delay:.3s"><div class="stat-number" data-count="100">0</div><div class="stat-label">Cobertura Nacional</div></div>
+      <div class="stat-item reveal"><div class="stat-number" data-count="2500">0</div><div class="stat-label">Operaciones Procesadas</div></div>
+      <div class="stat-item reveal" style="transition-delay:.1s"><div class="stat-number" data-count="999">0</div><div class="stat-label">Disponibilidad</div></div>
+      <div class="stat-item reveal" style="transition-delay:.2s"><div class="stat-number" data-count="24">0</div><div class="stat-label">Acceso Online</div></div>
+      <div class="stat-item reveal" style="transition-delay:.3s"><div class="stat-number" data-count="100">0</div><div class="stat-label">Responsive</div></div>
     </div>
   </div>
 </section>
@@ -370,7 +370,7 @@ img{max-width:100%;height:auto;display:block}
       </div>
       <div class="demo-card reveal" style="transition-delay:.2s">
         <div class="mockup"><div class="mockup-grid"></div><i class="bi bi-bookmark" style="position:relative;z-index:1"></i></div>
-        <h4>Nexora Catálogo</h4>
+        <h4>Nexora Note</h4>
         <p>Cat&aacute;logos digitales profesionales para mostrar tus productos y gestionar precios desde cualquier lugar.</p>
         <div class="demo-links">
           <a href="#" target="_blank" rel="noopener" class="btn btn-primary" style="padding:10px 20px;font-size:.82rem"><i class="bi bi-play-circle"></i> Ver Demo</a>
@@ -420,7 +420,7 @@ img{max-width:100%;height:auto;display:block}
         <input type="hidden" name="_subject" value="Nuevo contacto desde Nexora Apps">
         <input type="hidden" name="_template" value="table">
         <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_next" value="https://nexoraapps.com.ar/gracias.html">
+        <input type="hidden" name="_next" value="https://www.nexoraapps.com.ar/gracias.html">
         <div class="form-group">
           <label for="name">Nombre completo</label>
           <input type="text" id="name" name="name" required placeholder="Tu nombre">
@@ -456,7 +456,7 @@ img{max-width:100%;height:auto;display:block}
     <div class="footer-grid">
       <div>
         <span class="footer-brand">NEXORA</span>
-        <p class="footer-desc">Desarrollamos herramientas modernas para empresas, comercios y profesionales que buscan crecer con tecnolog&iacute;a confiable y escalable. Nexora, Nexora Core, Nexora Booking y Nexora Catálogo son nombres comerciales utilizados por Nexora Apps.</p>
+        <p class="footer-desc">Desarrollamos herramientas modernas para empresas, comercios y profesionales que buscan crecer con tecnolog&iacute;a confiable y escalable. Nexora, Nexora Core, Nexora Booking y Nexora Note son nombres comerciales utilizados por Nexora Apps.</p>
         <div class="footer-social">
           <a href="https://wa.me/5491122334455" target="_blank" rel="noopener" aria-label="WhatsApp"><i class="bi bi-whatsapp"></i></a>
           <a href="mailto:sistemas.nexoraapps@gmail.com" aria-label="Email"><i class="bi bi-envelope"></i></a>
@@ -468,7 +468,7 @@ img{max-width:100%;height:auto;display:block}
         <ul>
           <li><a href="https://core.nexoraapps.com.ar" target="_blank" rel="noopener">Nexora Core</a></li>
           <li><a href="#contacto">Nexora Booking</a></li>
-          <li><a href="#contacto">Nexora Catálogo</a></li>
+          <li><a href="#contacto">Nexora Note</a></li>
           <li style="margin-top:8px;padding-top:8px;border-top:1px solid var(--border)"><a href="https://cliente1.nexoraapps.com.ar" target="_blank" rel="noopener" style="font-size:.75rem;opacity:.7"><i class="bi bi-box-arrow-in-right"></i> Portal Clientes</a></li>
         </ul>
       </div>
